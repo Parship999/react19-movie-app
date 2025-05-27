@@ -10,7 +10,7 @@
 
   **A cutting-edge movie discovery application showcasing React 19's latest features and React Compiler optimization**
   
-  [🚀 Live Demo](#) • [📖 Documentation](#features) • [🎯 Features](#react-19-features)
+ [📖 Documentation](#features) • [🎯 Features](#react-19-features)
 
 </div>
 
